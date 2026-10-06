@@ -1,0 +1,4 @@
+Mascota Virtual de Informática, IPET 249 "Nicolás Copérnico"
+mi mascota es un robot que representa a la especialidad de Informática. Lleva anteojos, auriculares de gaming y una pantalla en el pecho con código, y usa los colores del colegio (bordó, amarillo, rojo y blanco) junto al escudo de la institución.
+Funciona como un Tamagotchi: tiene tres necesidades, Energía, Ánimo y Salud, que bajan solas con el tiempo. Para cuidarla, el usuario le da café y código (tecla C), le limpia los bugs (tecla B) o la hace programar (tecla P). Si no se la cuida, aparecen bugs en pantalla y el robot se pone triste o se queda sin batería.
+Según su estado, la mascota cambia de aspecto: feliz, triste, programando o sin batería. Así, el juego transmite de forma divertida que, igual que una computadora, necesita energía, mantenimiento y trabajo para funcionar bien.
